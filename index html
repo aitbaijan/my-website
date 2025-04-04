@@ -25,3 +25,8 @@
                     <div class="section__label">UI/UX Designer</div>
                 <h1 class="tittle tittle_h1">Hello,  my name is Madelyn Torff</h1>
                 <p class="first-display__descr">Short text with details about you, what you do or your professional career. You can add more information on the about page.</p>
+                <div class="first-display__actions">
+                    <button class="btn btn_primary">Projects</button>
+                    <button class="btn btn_outline">LinkedIn</button>
+                </div>
+            </div>
