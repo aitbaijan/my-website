@@ -92,3 +92,7 @@ img {
     --size-base: 4px;
     --content-width-max: 1200px;
 }
+
+* {
+    box-sizing: border-box;
+}
