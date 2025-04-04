@@ -7,3 +7,16 @@
     <link rel="stylesheet" href="/index.css">
     <title>Madelyn Torff | UI/UX Designer</title>
 </head>
+<body>
+    <h2 class="tittle tittle_decorated"></h2>
+    <h2 class="tittle tittle_decorated"></h2>
+    <div class="page">
+        <main class="page__content">
+            <header class="header">
+                <div class="logo">Madelyn Torff</div>
+                <nav class="nav">
+                    <a href="#" class="nav__link">About</a>
+                    <a href="#" class="nav__link">Projects</a>
+                    <a href="#" class="nav__link">Contacts</a>
+                </nav>
+            </header>
