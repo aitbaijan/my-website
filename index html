@@ -50,3 +50,16 @@
             alt="" 
             class="card__img">
                 </div>
+                <div class="card card_direction_reverse">
+                    <div class="card__content">
+                        <h3 class="card__tittle">Project Name</h3>
+                        <p class="card__descr">What was your role, your deliverables, if the project was personal, freelancing.</p>
+                        <button class="btn btn_round">View Project</button>
+                    </div>
+    
+                <img 
+                src="img/Rectangle-7.jpg" 
+                srcset="img/Rectangle-7-(2)/jpg 2x"
+                alt="" 
+                class="card__img">
+                </div>
