@@ -162,3 +162,11 @@ header {
     display: block;
     unicode-bidi: isolate;
 }
+
+.nav {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+    column-gap: calc(var(--size-base)*12);
+}
