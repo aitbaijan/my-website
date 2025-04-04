@@ -36,3 +36,6 @@
             alt="" 
             class="first-display__bg">
         </section>
+        <section class="projects">
+            <h2 class="tittle tittle_h2">Projects</h2>
+            <div class="projects__list">
