@@ -71,3 +71,10 @@
     row-gap: calc(var(--size-base)*8);
     justify-content: center;
 }
+
+img {
+    overflow-clip-margin: content-box;
+    overflow-y: clip;
+    max-width: 100%;
+    height: auto;
+}
