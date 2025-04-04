@@ -39,3 +39,14 @@
         <section class="projects">
             <h2 class="tittle tittle_h2">Projects</h2>
             <div class="projects__list">
+                <div class="card">
+                    <div class="card__content">
+                        <h3 class="card__tittle">Project Name</h3>
+                        <p class="card__descr">I created this personal project in order to show how to create an interface in Figma using a portfolio as an example.</p>
+                        <button class="btn btn_round">View Project</button>
+                    </div>
+            <img src="img/pexels-elly-fairytale-3823207-1.jpg" 
+            srcset="img/pexels-elly-fairytale-3823207-1-(1).jpg 2x" 
+            alt="" 
+            class="card__img">
+                </div>
