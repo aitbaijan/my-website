@@ -263,3 +263,37 @@ section {
 .card_direction_reverse {
     flex-direction: row-reverse;
 }
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: calc(var(--size-base)*6);
+
+    row-gap: calc(var(--size-base)*20);
+    margin-top: calc(var(--size-base)*20);
+    margin-bottom: 40px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 600px;
+
+    row-gap: calc(var(--size-base)*6);
+}
+
+.form__field {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    margin-bottom: 20px;
+}
