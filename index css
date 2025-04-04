@@ -78,3 +78,17 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+:root {
+    --brand-yellow: #FDC435;
+    --bg-gray: #F9FAFF;
+    --bg-white: #FFFFFF;
+    --bg-line: #25282B;
+    --border-gray: #E8ECF4;
+    --font-high-emphasis: #25282B;
+    --font-medium-emphasis: #828282;
+    --font-low-emphasis: #9A9FA8;
+    --font-black: #333333;
+    --size-base: 4px;
+    --content-width-max: 1200px;
+}
