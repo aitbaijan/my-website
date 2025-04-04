@@ -183,3 +183,34 @@ section {
 .tittle_h1 {
     margin-bottom: calc(var(--size-base)*8);
 }
+
+.first-display {
+    min-height: calc(var(--size-base)* 129);
+    padding-bottom: calc(var(--size-base)* 28);
+}
+
+.first-display__bg {
+    position: absolute;
+    margin-top: 0;
+    padding-top: 0;
+    top: 0;
+    right: calc(var(--size-base)* -30);
+    z-index: 0;
+}
+
+.first-display__descr {
+    margin-bottom: calc(var(--size-base)*8);
+}
+
+.first-display__content {
+    display: flex;
+    flex-direction: column;
+
+    max-width: calc(var(--size-base)*121.5);
+}
+
+.first-display__actions {
+    display: flex;
+
+    column-gap: calc(var(--size-base)*3);
+}
