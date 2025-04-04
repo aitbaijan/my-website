@@ -326,3 +326,16 @@ section {
 element.style {
     position: relative;
 }
+
+.btn_primary {
+    padding: 12px 24px;
+    width: auto;
+    max-width: 200px;
+    background: var(--brand-yellow)
+}
+
+.copyright {
+    text-align: center;
+    font-size: calc(var(--size-base)*4);
+    margin-bottom: calc(var(--size-base)*20);
+}
