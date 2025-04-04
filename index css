@@ -170,3 +170,16 @@ header {
 
     column-gap: calc(var(--size-base)*12);
 }
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.section__label {
+    margin-bottom: calc(var(--size-base)*3);
+}
+
+.tittle_h1 {
+    margin-bottom: calc(var(--size-base)*8);
+}
