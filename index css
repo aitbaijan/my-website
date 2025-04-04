@@ -297,3 +297,32 @@ section {
     max-width: 600px;
     margin-bottom: 20px;
 }
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    max-width: 100%;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin-top: auto;
+    z-index: -1;
+
+    row-gap: calc(var(--size-base)*8);
+    justify-content: center;
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+
+    column-gap: calc(var(--size-base)*6);
+}
+
+element.style {
+    position: relative;
+}
