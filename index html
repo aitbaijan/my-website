@@ -30,3 +30,9 @@
                     <button class="btn btn_outline">LinkedIn</button>
                 </div>
             </div>
+            <img 
+            src="img/image.jpg" 
+            srcset="img/image-(1).jpg 2x" 
+            alt="" 
+            class="first-display__bg">
+        </section>
